@@ -6,3 +6,5 @@ MADE WITH ATOM UPDATE - 1
 Open Game.bat to start Playing!
 
 YOU NEED TO EXTRACT OUT THE FILE TO START PLAYING!!!
+
+More Info: https://docs.google.com/document/d/1MJZ6gC8n3UK5MhybCTWqZVlAs2Cj6slDJUJSzU3rHwo/edit?usp=sharing
