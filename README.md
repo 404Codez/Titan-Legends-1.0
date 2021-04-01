@@ -4,3 +4,5 @@ This is an open source project
 An update is made when 10 levels are added.
 MADE WITH ATOM UPDATE - 1
 Open Game.bat to start Playing!
+
+YOU NEED TO ETRACT OUT THE FILE TO START PLAYING!!!
